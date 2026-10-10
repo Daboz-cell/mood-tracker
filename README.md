@@ -4,6 +4,8 @@ A simple single-screen mobile app built with **React Native** and **Expo**. Tap 
 
 Built as a practice project covering components, props, state and basic styling.
 
+<img src="screenshots/home.jpeg" alt="Mood Tracker screenshot" width="300" />
+
 ## Features
 
 - Five mood buttons: Happy, Sad, Tired, Excited and Angry
@@ -27,6 +29,8 @@ mood-tracker/
 ├── App.js                  # Main screen: state, counts and layout
 ├── components/
 │   └── MoodButton.js       # Reusable mood button component
+├── screenshots/
+│   └── home.jpeg           # App screenshot used in this README
 ├── assets/                 # Icons and splash images from the template
 ├── app.json                # Expo configuration
 └── package.json            # Dependencies and scripts
